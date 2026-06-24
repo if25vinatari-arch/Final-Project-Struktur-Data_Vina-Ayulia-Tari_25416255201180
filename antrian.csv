@@ -1,0 +1,6 @@
+id,nama,umur,keluhan,poli,no_antrian,status
+P001,Sea Tawinan,25,Demam,Umum,A001,Menunggu
+P002,Pond Naravit,22,Batuk,Paru,A002,Menunggu
+P003,Junior Panachai,20,Sakit Gigi,Gigi,A003,Menunggu
+P004,Ole Romeny,18,Sakit Mata,Mata,A004,Menunggu
+P005,Shaquille Khai,4,Gatal - gatal,Kulit,A005,Menunggu
